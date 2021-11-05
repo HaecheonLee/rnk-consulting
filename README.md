@@ -13,7 +13,7 @@ The website provides information of the company such as team, services, and cont
 1) The server for frontend deals with the client part, and communicates with the API server through HTTP
 2) The API server handles any request from the frontend server, and is connected to a cloud-based SMTP server and database.
 
-**For security issue, this repo only contains the code for frontend**
+**For security issue, this repo only contains code for frontend**
 
 ## Roadmap
 - [x] Implement a contact form
