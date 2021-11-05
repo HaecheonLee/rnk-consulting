@@ -10,10 +10,10 @@ The website provides information of the company such as team, services, and cont
 <img width="100%" src="/assets/about-rnk-consulting.gif">
 
 **The project consists of two main parts**
-1) The server for frontend deals with the client part, and communicates with the api server through HTTP
-2) The api server handles any request from the frontend server, and is connected to a cloud-based SMTP server and database.
+1) The server for frontend deals with the client part, and communicates with the API server through HTTP
+2) The API server handles any request from the frontend server, and is connected to a cloud-based SMTP server and database.
 
-**For security issue, this repo only contains the code in frontend**
+**For security issue, this repo only contains the code for frontend**
 
 ## Roadmap
 - [x] Implement a contact form
